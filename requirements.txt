@@ -1,0 +1,4 @@
+asyncio
+EdgeGPT
+pyTelegramBotAPI
+aiohttp
